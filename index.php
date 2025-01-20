@@ -5,6 +5,6 @@
   </head>
   <body>
     <!-- ここに書きたい内容を書く -->
-    <?php print("Hello world")?>
+    <?php print'Hello World';?>
   </body>
 </html>
